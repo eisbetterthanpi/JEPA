@@ -1,35 +1,9 @@
 # JEPA
 
-<!--
-## Convolutional Autoencoder
-learn to recreate mnist image using convolutional autoencoder<br />
-model size is significantly smaller than the naive MLP autoencoder<br />
-#### [Open `conv_autoencoder.ipynb` in Google Colab](https://colab.research.google.com/github/eisbetterthanpi/pytorch/blob/master/procgen_jepa.ipynb)
-<div align="center">
-  <div>&nbsp;</div>
-  <img src="resources/og4.png" width="200"/> 
-  <img src="resources/convt4.png" width="200"/> 
-  <img src="resources/upsample4.png" width="200"/> 
-  <div align="center">original | conv transpose | conv upsample </div>
-</div>
--->
-<video src="resources/not_luck.mp4" controls>
-    Your browser does not support the video tag.
-</video>
+(wip) Hierarchical Joint Predictive Predictive Architecture (H-JEPA)
 
+Based on the architecture proposed in "A Path Towards Autonomous Machine Intelligence" by Yann LeCun. openreview.net/pdf?id=BZ5a1r-kVsf
 
-<video autoplay muted loop>
-  <source src="resources/not_luck.mp4" type="video/mp4">
-</video>
+![Demo GIF](resources/not_luck.gif)
 
-hi
-<div align="center">
-<!-- <video width="320" height="240" autoplay loop muted> -->
-<video width="320" height="240">
-  <source src="resources/not_luck.mp4" type="video/mp4" />
-  <source src="resources/not_luck.mp4" type="video/mp4" />
-</video>
-</div>
-<!--   <source src="movie.ogg" type="video/ogg" /> -->
-<!--   Your browser does not support the video tag. -->
 
