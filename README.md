@@ -14,10 +14,10 @@ model size is significantly smaller than the naive MLP autoencoder<br />
 </div>
 -->
 
-
+hi
 <video width="320" height="240" autoplay loop muted>
   <source src="resources/not_luck.mp4" type="video/mp4" />
+</video>
 <!--   <source src="movie.ogg" type="video/ogg" /> -->
 <!--   Your browser does not support the video tag. -->
-</video>
 
