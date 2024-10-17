@@ -7,8 +7,8 @@ Based on the architecture proposed in "A Path Towards Autonomous Machine Intelli
 
 <div align="center">
   <div>&nbsp;</div>
-  <img src="resources/jepa3.jpg" width="400"/>
-  <img src="resources/hjepa2.jpg" width="400"/>
+  <img src="resources/jepa3.jpg" width="300"/>
+  <img src="resources/hjepa.jpg" width="400"/>
   <div align="center">JEPA architecture | Hierarchial JEPA </div>
 </div>
 
